@@ -1,127 +1,121 @@
 {
-     "totalEnrollments": 160,
-     "courses": [
-        {
-          "id": "arpit-system-design-masterclass",
-          "name": "Arpit's System Design Masterclass",
-          "description":
-            "A masterclass that helps you become great at designing scalable, fault-tolerant, and highly available systems.",
-          "img":
-            "https://user-images.githubusercontent.com/4745789/133619105-0d259337-65e7-43bc-860e-62213c9210eb.png",
-          "instructor": "Arpit Bhayani",
-          "totalEnollments": 160,
-          "totalCohorts": 4,
-          "nextBatchStartDate": "6th November, 2021",
-          "url": "https://arpitbhayani.me/masterclass"
-        }
-      ],
-    "organizations": [
-        {
-            "name": "Tesla",
-            "logo": "https://user-images.githubusercontent.com/4745789/115353876-a64bf080-a1d6-11eb-8abd-da1e948c289d.png",
-            "url": "https://www.tesla.com"
-        },
-        {
-            "name": "Google",
-            "logo": "https://user-images.githubusercontent.com/4745789/131295363-04dc4fdf-4674-49f7-a453-90a42ec581f9.png",
-            "url": "https://www.google.com"
-        },
-        {
-            "name": "Microsoft",
-            "logo": "https://user-images.githubusercontent.com/4745789/131295468-f8f52c8a-0bc1-4765-baa6-009490eb808e.png",
-            "url": "https://www.microsoft.com"
-        },
-        {
-            "name": "Amazon",
-            "logo": "https://user-images.githubusercontent.com/4745789/115350867-40119e80-a1d3-11eb-8ed1-3d689b2bf9b2.png",
-            "url": "https://www.amazon.com/"
-        },
-        {
-            "name": "GitHub",
-            "logo": "https://user-images.githubusercontent.com/4745789/131295948-fe68928f-69de-476e-a1e5-bd0843d91e8c.png",
-            "url": "https://www.github.com/"
-        },
-        {
-            "name": "Flipkart",
-            "logo": "https://user-images.githubusercontent.com/4745789/115350183-684ccd80-a1d2-11eb-9891-620ff043bcfa.png",
-            "url": "https://www.flipkart.com"
-        },
-        {
-            "name": "PayTM",
-            "logo": "https://user-images.githubusercontent.com/4745789/123135938-0299ed80-d470-11eb-823a-54c0fc9647dd.png",
-            "url": "https://www.paytm.com/"
-        },
-        {
-            "name": "OYO",
-            "logo": "https://user-images.githubusercontent.com/4745789/131298059-a0c027bc-0076-437a-9c05-cd274a564aea.png",
-            "url": "https://www.oyo.com/"
-        },
-        {
-            "name": "PayPal",
-            "logo": "https://user-images.githubusercontent.com/4745789/131295708-22a60122-645f-41bc-a810-265a8b4a2bd0.png",
-            "url": "https://www.paypal.com/"
-        },
-        {
-            "name": "Grab",
-            "logo": "https://user-images.githubusercontent.com/4745789/131296241-97d9a0b9-e4c2-477e-8cbd-badb9289a5b5.png",
-            "url": "https://www.grab.com/"
-        },
-        {
-            "name": "MakeMyTrip",
-            "logo": "https://user-images.githubusercontent.com/4745789/131296448-35521312-94d1-43f7-9648-331cac056ad1.png",
-            "url": "https://www.makemytrip.com/"
-        },
-        {
-            "name": "Dream11",
-            "logo": "https://user-images.githubusercontent.com/4745789/131296736-5735286e-811f-4d3f-a95c-9280bd063b93.png",
-            "url": "https://www.dream11.com/"
-        },
-        {
-            "name": "Unacademy",
-            "logo": "https://user-images.githubusercontent.com/4745789/131297119-59302b5d-2375-428e-ad80-9230a06a9b67.png",
-            "url": "https://www.unacademy.com/"
-        },
-        {
-            "name": "BrowserStack",
-            "logo": "https://user-images.githubusercontent.com/4745789/115350976-5f103080-a1d3-11eb-812d-99568d38e3e3.png",
-            "url": "https://www.browserstack.com/"
-        },
-        {
-            "name": "Practo",
-            "logo": "https://user-images.githubusercontent.com/4745789/123136405-8358e980-d470-11eb-8889-7d34e1c9e11e.png",
-            "url": "https://www.yelp.com/"
-        },
-        {
-            "name": "Yelp",
-            "logo": "https://user-images.githubusercontent.com/4745789/115351392-d47c0100-a1d3-11eb-8418-ae0a4e344d9f.png",
-            "url": "https://www.yelp.com/"
-        },
-        {
-            "name": "Adobe",
-            "logo": "https://user-images.githubusercontent.com/4745789/131296081-d5f560a1-a97f-4d40-8afb-b9886aa1ae58.jpg",
-            "url": "https://www.adobe.com/"
-        }
-    ],
-    "testimonials": [
-        {
-            "name": "Ganesh Iyer",
-            "message": "Course is awesome! Lots of incredible stuff packed in 8 weeks. Helped me crack Principal Engineer interview at Microsoft.",
-            "cohort": "March 2021"
-        },
-        {
-            "name": "Shitiz Bhutani",
-            "message": "I found this course useful as it provided me with a lot of breadth in System Design with appropriate depth. I really liked Arpit’s way of explaining complex problems in a neat and simple way. The course structure is organized in such a way that you can easily connect the dots. I highly recommend it.",
-            "cohort": "May 2021"
-        },
-        {
-            "name": "Sanjith Joseph",
-            "message": "Arpit has great working experience with distributed systems and he brings out his experience in very engaging discussions. He actively encourages collaboration during class to help us think on our feet. He is quite generous with time and often veers off the planned route for impromptu discussions.",
-            "cohort": "July 2021"
-        },
-        {
-            "name": "Sarthak Sahu",
-            "message": "Enrolling in this course was one of the best decisions I have taken in my life. As the name suggests this truly is a 'Masterclass'. The content is crisp, very engaging and the discussions are fun and of very high quality. The breadth and depth of topics covered would definitely help in work as well as interviews. I had the chance to take few 1:1 mentorship sessions as well and collected some valuable wisdom from those sessions. Very few courses out there leave such an impact and this one definitely made me a better engineer. And the cherry on top - I was able to crack SDE 2 interview at Coinbase :)",
-            "cohort": "July 2021"
-        }
-    ]
+	"totalEnrollments": 160,
+	"courses": [{
+		"id": "arpit-system-design-masterclass",
+		"name": "Arpit's System Design Masterclass",
+		"description": "A masterclass that helps you become great at designing scalable, fault-tolerant, and highly available systems.",
+		"img": "https://user-images.githubusercontent.com/4745789/133619105-0d259337-65e7-43bc-860e-62213c9210eb.png",
+		"instructor": "Arpit Bhayani",
+		"totalEnollments": 160,
+		"totalCohorts": 4,
+		"nextBatchStartDate": "6th November, 2021",
+		"url": "https://arpitbhayani.me/masterclass"
+	}],
+	"organizations": [{
+			"name": "Tesla",
+			"logo": "https://user-images.githubusercontent.com/4745789/115353876-a64bf080-a1d6-11eb-8abd-da1e948c289d.png",
+			"url": "https://www.tesla.com"
+		},
+		{
+			"name": "Google",
+			"logo": "https://user-images.githubusercontent.com/4745789/131295363-04dc4fdf-4674-49f7-a453-90a42ec581f9.png",
+			"url": "https://www.google.com"
+		},
+		{
+			"name": "Microsoft",
+			"logo": "https://user-images.githubusercontent.com/4745789/131295468-f8f52c8a-0bc1-4765-baa6-009490eb808e.png",
+			"url": "https://www.microsoft.com"
+		},
+		{
+			"name": "Amazon",
+			"logo": "https://user-images.githubusercontent.com/4745789/115350867-40119e80-a1d3-11eb-8ed1-3d689b2bf9b2.png",
+			"url": "https://www.amazon.com/"
+		},
+		{
+			"name": "GitHub",
+			"logo": "https://user-images.githubusercontent.com/4745789/131295948-fe68928f-69de-476e-a1e5-bd0843d91e8c.png",
+			"url": "https://www.github.com/"
+		},
+		{
+			"name": "Flipkart",
+			"logo": "https://user-images.githubusercontent.com/4745789/115350183-684ccd80-a1d2-11eb-9891-620ff043bcfa.png",
+			"url": "https://www.flipkart.com"
+		},
+		{
+			"name": "PayTM",
+			"logo": "https://user-images.githubusercontent.com/4745789/123135938-0299ed80-d470-11eb-823a-54c0fc9647dd.png",
+			"url": "https://www.paytm.com/"
+		},
+		{
+			"name": "OYO",
+			"logo": "https://user-images.githubusercontent.com/4745789/131298059-a0c027bc-0076-437a-9c05-cd274a564aea.png",
+			"url": "https://www.oyo.com/"
+		},
+		{
+			"name": "PayPal",
+			"logo": "https://user-images.githubusercontent.com/4745789/131295708-22a60122-645f-41bc-a810-265a8b4a2bd0.png",
+			"url": "https://www.paypal.com/"
+		},
+		{
+			"name": "Grab",
+			"logo": "https://user-images.githubusercontent.com/4745789/131296241-97d9a0b9-e4c2-477e-8cbd-badb9289a5b5.png",
+			"url": "https://www.grab.com/"
+		},
+		{
+			"name": "MakeMyTrip",
+			"logo": "https://user-images.githubusercontent.com/4745789/131296448-35521312-94d1-43f7-9648-331cac056ad1.png",
+			"url": "https://www.makemytrip.com/"
+		},
+		{
+			"name": "Dream11",
+			"logo": "https://user-images.githubusercontent.com/4745789/131296736-5735286e-811f-4d3f-a95c-9280bd063b93.png",
+			"url": "https://www.dream11.com/"
+		},
+		{
+			"name": "Unacademy",
+			"logo": "https://user-images.githubusercontent.com/4745789/131297119-59302b5d-2375-428e-ad80-9230a06a9b67.png",
+			"url": "https://www.unacademy.com/"
+		},
+		{
+			"name": "BrowserStack",
+			"logo": "https://user-images.githubusercontent.com/4745789/115350976-5f103080-a1d3-11eb-812d-99568d38e3e3.png",
+			"url": "https://www.browserstack.com/"
+		},
+		{
+			"name": "Practo",
+			"logo": "https://user-images.githubusercontent.com/4745789/123136405-8358e980-d470-11eb-8889-7d34e1c9e11e.png",
+			"url": "https://www.yelp.com/"
+		},
+		{
+			"name": "Yelp",
+			"logo": "https://user-images.githubusercontent.com/4745789/115351392-d47c0100-a1d3-11eb-8418-ae0a4e344d9f.png",
+			"url": "https://www.yelp.com/"
+		},
+		{
+			"name": "Adobe",
+			"logo": "https://user-images.githubusercontent.com/4745789/131296081-d5f560a1-a97f-4d40-8afb-b9886aa1ae58.jpg",
+			"url": "https://www.adobe.com/"
+		}
+	],
+	"testimonials": [{
+			"name": "Ganesh Iyer",
+			"message": "Course is awesome! Lots of incredible stuff packed in 8 weeks. Helped me crack Principal Engineer interview at Microsoft.",
+			"cohort": "March 2021"
+		},
+		{
+			"name": "Shitiz Bhutani",
+			"message": "I found this course useful as it provided me with a lot of breadth in System Design with appropriate depth. I really liked Arpit’s way of explaining complex problems in a neat and simple way. The course structure is organized in such a way that you can easily connect the dots. I highly recommend it.",
+			"cohort": "May 2021"
+		},
+		{
+			"name": "Sanjith Joseph",
+			"message": "Arpit has great working experience with distributed systems and he brings out his experience in very engaging discussions. He actively encourages collaboration during class to help us think on our feet. He is quite generous with time and often veers off the planned route for impromptu discussions.",
+			"cohort": "July 2021"
+		},
+		{
+			"name": "Sarthak Sahu",
+			"message": "Enrolling in this course was one of the best decisions I have taken in my life. As the name suggests this truly is a 'Masterclass'. The content is crisp, very engaging and the discussions are fun and of very high quality. The breadth and depth of topics covered would definitely help in work as well as interviews. I had the chance to take few 1:1 mentorship sessions as well and collected some valuable wisdom from those sessions. Very few courses out there leave such an impact and this one definitely made me a better engineer. And the cherry on top - I was able to crack SDE 2 interview at Coinbase :)",
+			"cohort": "July 2021"
+		}
+	]
 }
