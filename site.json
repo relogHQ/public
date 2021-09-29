@@ -100,22 +100,22 @@
 	"testimonials": [{
 			"name": "Ganesh Iyer",
 			"message": "Course is awesome! Lots of incredible stuff packed in 8 weeks. Helped me crack Principal Engineer interview at Microsoft.",
-			"cohort": "March 2021"
+			"course": "Arpit's System Design Masterclass"
 		},
 		{
 			"name": "Shitiz Bhutani",
 			"message": "I found this course useful as it provided me with a lot of breadth in System Design with appropriate depth. I really liked Arpit’s way of explaining complex problems in a neat and simple way. The course structure is organized in such a way that you can easily connect the dots. I highly recommend it.",
-			"cohort": "May 2021"
+			"course": "Arpit's System Design Masterclass"
 		},
 		{
 			"name": "Sanjith Joseph",
 			"message": "Arpit has great working experience with distributed systems and he brings out his experience in very engaging discussions. He actively encourages collaboration during class to help us think on our feet. He is quite generous with time and often veers off the planned route for impromptu discussions.",
-			"cohort": "July 2021"
+			"course": "Arpit's System Design Masterclass"
 		},
 		{
 			"name": "Sarthak Sahu",
 			"message": "Enrolling in this course was one of the best decisions I have taken in my life. As the name suggests this truly is a 'Masterclass'. The content is crisp, very engaging and the discussions are fun and of very high quality. The breadth and depth of topics covered would definitely help in work as well as interviews. I had the chance to take few 1:1 mentorship sessions as well and collected some valuable wisdom from those sessions. Very few courses out there leave such an impact and this one definitely made me a better engineer. And the cherry on top - I was able to crack SDE 2 interview at Coinbase :)",
-			"cohort": "July 2021"
+			"course": "Arpit's System Design Masterclass"
 		}
 	]
 }
