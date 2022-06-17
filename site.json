@@ -1,14 +1,14 @@
 {
-	"totalEnrollments": 160,
+	"totalEnrollments": 760,
 	"courses": [{
 		"id": "arpit-system-design-masterclass",
 		"name": "Arpit's System Design Masterclass",
 		"description": "A masterclass that helps you become great at designing scalable, fault-tolerant, and highly available systems.",
 		"img": "https://user-images.githubusercontent.com/4745789/133619105-0d259337-65e7-43bc-860e-62213c9210eb.png",
 		"instructor": "Arpit Bhayani",
-		"totalEnollments": 160,
-		"totalCohorts": 4,
-		"nextBatchStartDate": "6th November, 2021",
+		"totalEnollments": 760,
+		"totalCohorts": 10,
+		"nextBatchStartDate": "3rd September, 2022",
 		"url": "https://arpitbhayani.me/masterclass"
 	}],
 	"organizations": [{
